@@ -1,6 +1,6 @@
 # Fran Apps
 
-Menú personal para abrir las diez aplicaciones publicadas de Fravier3. Interfaz en español, adaptable a iPhone y escritorio, con modo oscuro automático e icono para añadir a la pantalla de inicio.
+Menú personal para abrir las once aplicaciones publicadas de Fravier3. Interfaz en español, adaptable a iPhone y escritorio, con modo oscuro automático e icono para añadir a la pantalla de inicio.
 
 ## Publicación
 
@@ -30,5 +30,8 @@ El menú puede abrirse sin conexión después de una primera visita conectada. L
 | Puerto Rico | Puerto-Rico |
 | Miami Quiz | DesarrollosFran |
 | QA Tester | QA-Tester |
+| Mascota (Huevito Digital) | mascota |
 
-Los diez enlaces respondieron con HTTP 200 durante la creación del menú. Esto verifica la publicación de sus páginas de entrada; no certifica todas las funciones internas de cada aplicación.
+Los diez enlaces originales respondieron con HTTP 200 durante la creación del menú. Esto verifica la publicación de sus páginas de entrada; no certifica todas las funciones internas de cada aplicación.
+
+La entrada de Mascota respondió con HTTP 200 al añadir su botón al menú.
