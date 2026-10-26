@@ -6,7 +6,7 @@ Centro personal de aplicaciones de Fravier3. Publicado en https://fravier3.githu
 
 17 apps web: las 11 existentes y RadioFran, Coquídoku, Peseteando PR, Fran & Diana, Sonidos y UserPlex. IPTv-Fran, SuperNIntendo y FranMusicTv aparecen aparte como repositorios sin web publicada. No se han modificado los proyectos de destino.
 
-Los 17 enlaces y los 13 iconos originales respondieron HTTP 200. Los iconos se enlazan directamente al recurso declarado por cada app. ConteoRegresivo, Puerto-Rico, DesarrollosFran y QA-Tester no tienen icono propio en sus repositorios y usan iniciales. Si un icono deja de estar disponible, también se muestran iniciales.
+Los 17 enlaces y los 13 iconos originales respondieron HTTP 200. Los iconos se enlazan directamente al recurso declarado por cada app. ConteoRegresivo, Puerto-Rico, DesarrollosFran y QA-Tester tienen iconos 3D creados exclusivamente para este catálogo, guardados en `icons/apps/`. Sus repositorios originales no se modifican. El icono principal de Fran Apps está en `icons/hub-v4-*.png`. Si un icono deja de estar disponible, también se muestran iniciales.
 
 ## Uso
 

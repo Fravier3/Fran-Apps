@@ -126,40 +126,44 @@
       "url": "https://fravier3.github.io/ConteoRegresivo/",
       "status": 200,
       "title": "",
-      "icon": null,
+      "icon": "./icons/apps/countdown.webp",
       "name": "Cuenta atrás",
       "description": "Cada día cuenta.",
-      "category": "Personal"
+      "category": "Personal",
+      "iconScope": "Fran Apps only"
     },
     {
       "repo": "Puerto-Rico",
       "url": "https://fravier3.github.io/Puerto-Rico/",
       "status": 200,
       "title": "",
-      "icon": null,
+      "icon": "./icons/apps/puerto-rico.webp",
       "name": "Puerto Rico",
       "description": "Un espacio para nuestra isla.",
-      "category": "Personal"
+      "category": "Personal",
+      "iconScope": "Fran Apps only"
     },
     {
       "repo": "DesarrollosFran",
       "url": "https://fravier3.github.io/DesarrollosFran/",
       "status": 200,
       "title": "",
-      "icon": null,
+      "icon": "./icons/apps/miami.webp",
       "name": "Miami Quiz",
       "description": "Pon a prueba lo que sabes.",
-      "category": "Juegos"
+      "category": "Juegos",
+      "iconScope": "Fran Apps only"
     },
     {
       "repo": "QA-Tester",
       "url": "https://fravier3.github.io/QA-Tester/",
       "status": 200,
       "title": "",
-      "icon": null,
+      "icon": "./icons/apps/qa-tester.webp",
       "name": "QA Tester",
       "description": "Organiza tus pruebas.",
-      "category": "Herramientas"
+      "category": "Herramientas",
+      "iconScope": "Fran Apps only"
     },
     {
       "repo": "mascota",
