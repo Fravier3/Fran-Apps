@@ -1,0 +1,198 @@
+{
+  "updated": "2026-10-26",
+  "apps": [
+    {
+      "repo": "RadioFran",
+      "url": "https://fravier3.github.io/RadioFran/",
+      "status": 200,
+      "title": "",
+      "icon": "https://fravier3.github.io/RadioFran/assets/icon-192.png",
+      "name": "RadioFran",
+      "description": "El sonido de Puerto Rico.",
+      "category": "Entretenimiento"
+    },
+    {
+      "repo": "coquidoku",
+      "url": "https://fravier3.github.io/coquidoku/",
+      "status": 200,
+      "title": "",
+      "icon": "https://fravier3.github.io/coquidoku/assets/icon-192.png",
+      "name": "Coquídoku",
+      "description": "Descubre la Isla del Encanto.",
+      "category": "Juegos"
+    },
+    {
+      "repo": "Peseteando",
+      "url": "https://fravier3.github.io/Peseteando/",
+      "status": 200,
+      "title": "",
+      "icon": "https://fravier3.github.io/Peseteando/assets/icon-v2-192.png",
+      "name": "Peseteando PR",
+      "description": "Encuentra tu próximo ahorro.",
+      "category": "Utilidades"
+    },
+    {
+      "repo": "FechasD-F",
+      "url": "https://fravier3.github.io/FechasD-F/",
+      "status": 200,
+      "title": "",
+      "icon": "https://fravier3.github.io/FechasD-F/icons/1.3.1-d117d38c73/icon-192.png",
+      "name": "Fran & Diana",
+      "description": "Fechas, recuerdos y momentos.",
+      "category": "Personal"
+    },
+    {
+      "repo": "efectos-sonido",
+      "url": "https://fravier3.github.io/efectos-sonido/",
+      "status": 200,
+      "title": "",
+      "icon": "https://fravier3.github.io/efectos-sonido/icons/icon-192.png",
+      "name": "Sonidos",
+      "description": "Explora efectos para tus ideas.",
+      "category": "Herramientas"
+    },
+    {
+      "repo": "UsuariosFran-p-ex",
+      "url": "https://fravier3.github.io/UsuariosFran-p-ex/",
+      "status": 200,
+      "title": "",
+      "icon": "https://fravier3.github.io/UsuariosFran-p-ex/icon-192.png",
+      "name": "UserPlex",
+      "description": "Administra tus usuarios Plex.",
+      "category": "Herramientas"
+    },
+    {
+      "repo": "convertidor-cop-usd",
+      "url": "https://fravier3.github.io/convertidor-cop-usd/",
+      "status": 200,
+      "title": "",
+      "icon": "https://fravier3.github.io/convertidor-cop-usd/icon.png",
+      "name": "Conversor",
+      "description": "COP y USD, al instante.",
+      "category": "Utilidades"
+    },
+    {
+      "repo": "pdf-signer-pro",
+      "url": "https://fravier3.github.io/pdf-signer-pro/",
+      "status": 200,
+      "title": "",
+      "icon": "https://fravier3.github.io/pdf-signer-pro/icons/icon-192.png",
+      "name": "PDF Pro",
+      "description": "Firma y prepara tus documentos.",
+      "category": "Utilidades"
+    },
+    {
+      "repo": "Finanzas",
+      "url": "https://fravier3.github.io/Finanzas/",
+      "status": 200,
+      "title": "",
+      "icon": "https://fravier3.github.io/Finanzas/icon-192.png",
+      "name": "Finanzas",
+      "description": "Tus cuentas bajo control.",
+      "category": "Personal"
+    },
+    {
+      "repo": "Editor-HTML",
+      "url": "https://fravier3.github.io/Editor-HTML/",
+      "status": 200,
+      "title": "",
+      "icon": "https://fravier3.github.io/Editor-HTML/icons/icon-192.png?v=20261004-6",
+      "name": "Editor HTML",
+      "description": "Crea, edita y prueba tus ideas.",
+      "category": "Herramientas"
+    },
+    {
+      "repo": "Fran-TV-PR",
+      "url": "https://fravier3.github.io/Fran-TV-PR/",
+      "status": 200,
+      "title": "",
+      "icon": "https://fravier3.github.io/Fran-TV-PR/icon.png",
+      "name": "Fran TV",
+      "description": "Tus canales en un solo lugar.",
+      "category": "Entretenimiento"
+    },
+    {
+      "repo": "JuegoPao",
+      "url": "https://fravier3.github.io/JuegoPao/",
+      "status": 200,
+      "title": "",
+      "icon": "https://fravier3.github.io/JuegoPao/icons/moto-192.png",
+      "name": "Juego Pao",
+      "description": "Una aventura para desconectar.",
+      "category": "Juegos"
+    },
+    {
+      "repo": "ConteoRegresivo",
+      "url": "https://fravier3.github.io/ConteoRegresivo/",
+      "status": 200,
+      "title": "",
+      "icon": null,
+      "name": "Cuenta atrás",
+      "description": "Cada día cuenta.",
+      "category": "Personal"
+    },
+    {
+      "repo": "Puerto-Rico",
+      "url": "https://fravier3.github.io/Puerto-Rico/",
+      "status": 200,
+      "title": "",
+      "icon": null,
+      "name": "Puerto Rico",
+      "description": "Un espacio para nuestra isla.",
+      "category": "Personal"
+    },
+    {
+      "repo": "DesarrollosFran",
+      "url": "https://fravier3.github.io/DesarrollosFran/",
+      "status": 200,
+      "title": "",
+      "icon": null,
+      "name": "Miami Quiz",
+      "description": "Pon a prueba lo que sabes.",
+      "category": "Juegos"
+    },
+    {
+      "repo": "QA-Tester",
+      "url": "https://fravier3.github.io/QA-Tester/",
+      "status": 200,
+      "title": "",
+      "icon": null,
+      "name": "QA Tester",
+      "description": "Organiza tus pruebas.",
+      "category": "Herramientas"
+    },
+    {
+      "repo": "mascota",
+      "url": "https://fravier3.github.io/mascota/",
+      "status": 200,
+      "title": "",
+      "icon": "https://fravier3.github.io/mascota/icon-192.png",
+      "name": "Mascota",
+      "description": "Tu Huevito Digital.",
+      "category": "Juegos"
+    }
+  ],
+  "repositoriesWithoutWeb": [
+    {
+      "repo": "IPTv-Fran",
+      "url": "https://fravier3.github.io/IPTv-Fran/",
+      "status": 404,
+      "title": "",
+      "icon": null
+    },
+    {
+      "repo": "SuperNIntendo",
+      "url": "https://fravier3.github.io/SuperNIntendo/",
+      "status": 404,
+      "title": "",
+      "icon": null
+    },
+    {
+      "repo": "FranMusicTv",
+      "url": "https://fravier3.github.io/FranMusicTv/",
+      "status": 404,
+      "title": "",
+      "icon": null
+    }
+  ]
+}

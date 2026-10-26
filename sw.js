@@ -1,6 +1,6 @@
 'use strict';
-const CACHE = 'fran-apps-v2';
-const SHELL = ['./', './index.html', './style.css', './app.js', './icon.svg', './manifest.webmanifest', './icons/apple-touch-icon.png', './icons/icon-192.png', './icons/icon-512.png'];
+const CACHE = 'fran-apps-v3';
+const SHELL = ['./', './index.html', './style.css?v=3', './app.js?v=3', './icon.svg', './manifest.webmanifest', './icons/apple-touch-icon.png', './icons/icon-192.png', './icons/icon-512.png'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(SHELL)).then(() => self.skipWaiting()));
 });

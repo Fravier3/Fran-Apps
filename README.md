@@ -1,37 +1,23 @@
 # Fran Apps
 
-Menú personal para abrir las once aplicaciones publicadas de Fravier3. Interfaz en español, adaptable a iPhone y escritorio, con modo oscuro automático e icono para añadir a la pantalla de inicio.
+Centro personal de aplicaciones de Fravier3. Publicado en https://fravier3.github.io/Fran-Apps/ mediante GitHub Pages, rama `main`, carpeta raíz.
 
-## Publicación
+## Catálogo · 26 octubre 2026
 
-GitHub Pages: rama `main`, carpeta raíz. Sitio: https://fravier3.github.io/Fran-Apps/
+17 apps web: las 11 existentes y RadioFran, Coquídoku, Peseteando PR, Fran & Diana, Sonidos y UserPlex. IPTv-Fran, SuperNIntendo y FranMusicTv aparecen aparte como repositorios sin web publicada. No se han modificado los proyectos de destino.
 
-## Uso en iPhone
+Los 17 enlaces y los 13 iconos originales respondieron HTTP 200. Los iconos se enlazan directamente al recurso declarado por cada app. ConteoRegresivo, Puerto-Rico, DesarrollosFran y QA-Tester no tienen icono propio en sus repositorios y usan iniciales. Si un icono deja de estar disponible, también se muestran iniciales.
 
-Abre el sitio en Safari. En Compartir, elige **Añadir a pantalla de inicio**. Cada botón abre la aplicación original en otra pestaña o ventana, según el navegador.
+## Uso
 
-## Actualizar aplicaciones
+Búsqueda por nombre o descripción (sin distinguir acentos), filtros por categoría y favoritos guardados localmente. Los enlaces abren las aplicaciones originales en otra pestaña. El catálogo permanece disponible sin JavaScript; búsqueda y favoritos requieren JavaScript.
 
-Los enlaces, nombres e iconos se encuentran en `index.html`. No se consultan APIs de GitHub, no se necesitan claves, y no se modifica ningún proyecto original. Para añadir o cambiar aplicaciones, edita las tarjetas. Si cambias archivos del menú, incrementa el nombre de caché en `sw.js`.
+En iPhone: Safari → Compartir → Añadir a pantalla de inicio. Las actualizaciones no requieren reinstalar. Se comprueban al cargar y al volver al primer plano. El service worker usa red primero y limita su caché a Fran Apps, sin interceptar otras apps. El catálogo puede abrirse sin conexión después de una visita; los iconos remotos y las apps de destino necesitan conexión.
 
-El menú puede abrirse sin conexión después de una primera visita conectada. Las aplicaciones de destino requieren su propia conexión y disponibilidad. El almacenamiento sin conexión está limitado a `/Fran-Apps/` y no intercepta otras aplicaciones.
+## Mantenimiento
 
-## Aplicaciones incluidas
+Las tarjetas estáticas están en `index.html`; `catalog.json` documenta los enlaces y las fuentes de iconos. Actualizar ambos al cambiar el catálogo. No se incluyen automáticamente nuevos repositorios. Incrementar la versión del caché y las URLs de CSS/JS al cambiar la interfaz.
 
-| Nombre | Repositorio |
-| --- | --- |
-| Conversor | convertidor-cop-usd |
-| PDF Pro | pdf-signer-pro |
-| Finanzas | Finanzas |
-| Editor HTML | Editor-HTML |
-| Fran TV | Fran-TV-PR |
-| Juego Pao | JuegoPao |
-| Cuenta atrás | ConteoRegresivo |
-| Puerto Rico | Puerto-Rico |
-| Miami Quiz | DesarrollosFran |
-| QA Tester | QA-Tester |
-| Mascota (Huevito Digital) | mascota |
+## Validación
 
-Los diez enlaces originales respondieron con HTTP 200 durante la creación del menú. Esto verifica la publicación de sus páginas de entrada; no certifica todas las funciones internas de cada aplicación.
-
-La entrada de Mascota respondió con HTTP 200 al añadir su botón al menú.
+Sintaxis JavaScript y diff comprobados; búsqueda sin acentos y persistencia de favoritos verificadas en navegador. Diseño responsive con dos columnas en móvil y hasta cuatro en escritorio. No se ha probado en un iPhone físico.
